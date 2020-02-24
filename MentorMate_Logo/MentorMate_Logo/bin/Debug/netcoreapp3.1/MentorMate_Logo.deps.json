@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MentorMate_Logo/1.0.0": {
+        "runtime": {
+          "MentorMate_Logo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MentorMate_Logo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

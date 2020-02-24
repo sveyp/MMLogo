@@ -1,0 +1,11 @@
+C:\Users\svetlomir\Desktop\2020_задачи\MentorMate_Logo\MentorMate_Logo\bin\Debug\netcoreapp3.1\MentorMate_Logo.exe
+C:\Users\svetlomir\Desktop\2020_задачи\MentorMate_Logo\MentorMate_Logo\bin\Debug\netcoreapp3.1\MentorMate_Logo.deps.json
+C:\Users\svetlomir\Desktop\2020_задачи\MentorMate_Logo\MentorMate_Logo\bin\Debug\netcoreapp3.1\MentorMate_Logo.runtimeconfig.json
+C:\Users\svetlomir\Desktop\2020_задачи\MentorMate_Logo\MentorMate_Logo\bin\Debug\netcoreapp3.1\MentorMate_Logo.runtimeconfig.dev.json
+C:\Users\svetlomir\Desktop\2020_задачи\MentorMate_Logo\MentorMate_Logo\bin\Debug\netcoreapp3.1\MentorMate_Logo.dll
+C:\Users\svetlomir\Desktop\2020_задачи\MentorMate_Logo\MentorMate_Logo\bin\Debug\netcoreapp3.1\MentorMate_Logo.pdb
+C:\Users\svetlomir\Desktop\2020_задачи\MentorMate_Logo\MentorMate_Logo\obj\Debug\netcoreapp3.1\MentorMate_Logo.csprojAssemblyReference.cache
+C:\Users\svetlomir\Desktop\2020_задачи\MentorMate_Logo\MentorMate_Logo\obj\Debug\netcoreapp3.1\MentorMate_Logo.AssemblyInfoInputs.cache
+C:\Users\svetlomir\Desktop\2020_задачи\MentorMate_Logo\MentorMate_Logo\obj\Debug\netcoreapp3.1\MentorMate_Logo.AssemblyInfo.cs
+C:\Users\svetlomir\Desktop\2020_задачи\MentorMate_Logo\MentorMate_Logo\obj\Debug\netcoreapp3.1\MentorMate_Logo.dll
+C:\Users\svetlomir\Desktop\2020_задачи\MentorMate_Logo\MentorMate_Logo\obj\Debug\netcoreapp3.1\MentorMate_Logo.pdb
